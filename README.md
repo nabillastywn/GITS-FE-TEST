@@ -25,4 +25,5 @@ Algoritma akan memproses karakter satu per satu:
 - Ketika bertemu "(", algoritma akan memasukkan "(" ke dalam stack.
 - Ketika bertemu "]", algoritma akan memeriksa apakah "]" cocok dengan tanda kurung terakhir di stack, yaitu "[". Jika cocok, "[" akan dihapus dari stack.
 Proses berlanjut hingga akhir input.
+
 Pada akhirnya, stack akan kosong dan algoritma mengembalikan "YES" karena semua tanda kurung seimbang.
