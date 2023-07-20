@@ -1,9 +1,13 @@
-# Laporan Akhir Kecerdasan Buatan - Kelompok IK2D
+# Internship - Problem Solving Test 
 
-**Anggota Kelompok :**
+**Nama :**
+Nabilla Syaharani Putri S
 
-1. Afifah Naura Kamilia - NIM. 3.34.21.3.02
-2. Nabilla Syaharani Putri S - NIM. 3.34.21.3.16
+**Email :**
+Nabillasetyawann@gmail.com
+
+**Asal Perguruan Tinggi :**
+Politeknik Negeri Semarang
 
 ## Domain Proyek
 
